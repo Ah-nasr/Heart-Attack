@@ -1,0 +1,177 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+
+
+    "patients" : [
+        {
+            "id" : 1,
+            "patient": "Ali Mohamed"
+        },
+        {
+            "id" : 2,
+            "patient": "Eyad Mohamed"
+        },
+        {
+            "id" : 3,
+            "patient": "Mohamed Shreif"
+        },
+        {
+            "id" : 4,
+            "patient": "Ziad kamal"
+        },
+        {
+            "id" : 5,
+            "patient": "Kareem Ali"
+        },
+        {
+            "id" : 6,
+            "patient": "Patient 6"
+        },
+        {
+            "id" : 7,
+            "patient": "Patient 7"
+        },
+        {
+            "id" : 8,
+            "patient": "Patient 8"
+        },
+        {
+            "id" : 9,
+            "patient": "Patient 9"
+        },
+        {
+            "id" : 10,
+            "patient": "Patient 10"
+        },
+        {
+            "id" : 11,
+            "patient": "Patient 11"
+        },
+        {
+            "id" :12,
+            "patient": "Patient 12"
+        },
+        {
+            "id" : 13,
+            "patient": "Patient 13"
+        },
+        {
+            "id" : 14,
+            "patient": "Patient 14"
+        },
+        {
+            "id" : 15,
+            "patient": "Patient 15"
+        },
+        {
+            "id" : 16,
+            "patient": "Hesham Tarek"
+        },
+        {
+            "id" : 17,
+            "patient": "Hazem Ahmed"
+        }
+    ],
+
+    "bars" : [
+        {
+            "id" : 1,
+            "title": "Bootstrap",
+            "percent": "100%"
+        },
+        {
+            "id" : 2,
+            "title": "Java",
+            "percent": "90%"
+        },
+        {
+            "id" : 3,
+            "title": "Photoshop",
+            "percent": "80%"
+        }
+    ],
+
+    "results" : [
+       
+        {
+            "id" : 2,
+            "output": "Positive"
+        }
+
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "images/portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "images/portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "images/portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "images/portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "images/portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "images/portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "images/portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "images/portfolio/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] 
+}
